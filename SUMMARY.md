@@ -19,3 +19,4 @@
 ***
 
 * [Keycloak Architecture](keycloak-architecture.md)
+* [Keycloak Key Features](keycloak-key-features.md)
