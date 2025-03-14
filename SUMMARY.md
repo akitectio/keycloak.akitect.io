@@ -20,3 +20,4 @@
 
 * [Keycloak Architecture](keycloak-architecture.md)
 * [Keycloak Key Features](keycloak-key-features.md)
+* [Install & configure Keycloak](install-and-configure-keycloak.md)
