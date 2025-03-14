@@ -9,3 +9,5 @@
 ***
 
 * [OpenID Connect](openid-connect.md)
+* [SAML & SSO](saml-and-sso.md)
+* [JWT & authentication](jwt-and-authentication.md)
