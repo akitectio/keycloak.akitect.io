@@ -11,3 +11,7 @@
 * [OpenID Connect](openid-connect.md)
 * [SAML & SSO](saml-and-sso.md)
 * [JWT & authentication](jwt-and-authentication.md)
+
+## ℹ️ Introduction to Keycloak&#x20;
+
+* [What is Keycloak?](introduction-to-keycloak/what-is-keycloak.md)
