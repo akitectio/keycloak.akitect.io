@@ -20,4 +20,8 @@
 
 * [Keycloak Architecture](keycloak-architecture.md)
 * [Keycloak Key Features](keycloak-key-features.md)
-* [Install & configure Keycloak](install-and-configure-keycloak.md)
+
+## 🎛️ Basic configuration
+
+* [Realm setting](basic-configuration/realm-setting/README.md)
+  * [Install & configure Keycloak](basic-configuration/realm-setting/install-and-configure-keycloak.md)
