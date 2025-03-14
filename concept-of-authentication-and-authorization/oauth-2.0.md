@@ -14,7 +14,7 @@ Tưởng tượng bạn đang sử dụng một ứng dụng quản lý tài ch�
 
 ### Các thành phần chính trong mô hình OAuth 2.0
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Các thành phần chính trong mô hình OAuth 2.0</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Các thành phần chính trong mô hình OAuth 2.0</p></figcaption></figure>
 
 #### 1. Resource Owner (Chủ sở hữu tài nguyên)
 
